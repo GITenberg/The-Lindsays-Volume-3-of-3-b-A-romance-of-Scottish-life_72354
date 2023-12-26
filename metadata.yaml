@@ -1,0 +1,29 @@
+_repo: The-Lindsays-Volume-3-of-3-b-A-romance-of-Scottish-life_72354
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Leys, John Kirkwood
+    gutenberg_agent_id: '56653'
+    url: http://www.gutenberg.org/2009/agents/56653
+description: ''
+gutenberg_issued: '2023-12-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72354'
+language: en
+pgterms:marc904: https://archive.org/details/lindsaysromanceo01leys https://archive.org/details/lindsaysromanceo02leys
+  https://archive.org/details/lindsaysromanceo03leys
+pgterms:marc905: 20210207071643leys
+pgterms:marc906: '1888'
+pgterms:marc907: GB
+production_note: Carol Brown, Susan Skinner and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This file was produced from images generously made
+  available by The Internet Archive)
+publication_note: '  $aLondon :$bChatto and Windus, $c1888.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'The Lindsays, Volume 3 (of 3) : $b A romance of Scottish life'
+url: http://www.gutenberg.org/ebooks/72354
